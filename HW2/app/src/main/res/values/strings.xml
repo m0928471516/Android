@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Marriage proposal</string>
+    <string name="sex">Sex</string>
+    <string name="sex_hint">(Enter sex)</string>
+    <string name="age">Age</string>
+    <string name="age_hint">(Enter age)</string>
+    <string name="btn_ok">Confirm</string>
+    <string name="suggestion">Suggest：</string>
+    <string name="sug_not_hurry">Not yet。</string>
+    <string name="sug_get_married">Get married quickly！</string>
+    <string name="sug_find_couple">Find a couple。</string>
+    <string name="sex_male">Male</string>
+</resources>

@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7b1699beb6ffce6c13bb6f5c952fd8f8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\eed8d339a0a035bd3e4c6d80c8f3ad36\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\20bcbb09508f1d5c4ef122f1323304eb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\66a179358d3ac4c0763c9a5a1f7b7650\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7b1699beb6ffce6c13bb6f5c952fd8f8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7b1699beb6ffce6c13bb6f5c952fd8f8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\eed8d339a0a035bd3e4c6d80c8f3ad36\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\eed8d339a0a035bd3e4c6d80c8f3ad36\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\20bcbb09508f1d5c4ef122f1323304eb\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\20bcbb09508f1d5c4ef122f1323304eb\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\66a179358d3ac4c0763c9a5a1f7b7650\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\66a179358d3ac4c0763c9a5a1f7b7650\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.gameusingdynamicfragment.MainActivity
+ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.gameusingdynamicfragment.ResultActivity
+ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7b1699beb6ffce6c13bb6f5c952fd8f8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7b1699beb6ffce6c13bb6f5c952fd8f8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\eed8d339a0a035bd3e4c6d80c8f3ad36\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\eed8d339a0a035bd3e4c6d80c8f3ad36\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\20bcbb09508f1d5c4ef122f1323304eb\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\20bcbb09508f1d5c4ef122f1323304eb\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\66a179358d3ac4c0763c9a5a1f7b7650\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\66a179358d3ac4c0763c9a5a1f7b7650\AndroidManifest.xml:20:5-43
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\7b1699beb6ffce6c13bb6f5c952fd8f8\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\src\main\AndroidManifest.xml

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="28"
+    build-mode="FULL"
+    density="xxhdpi"
+    format="10"
+    plugin-version="3.1.2"
+    timestamp="1526526501469"
+    token="-8836568431604368308"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="160" />
+    <task
+        name="verifier"
+        duration="298" />
+
+    <artifact
+        location="E:\Desktop\Android-hw7\hw7\Unit030-GameUsingDynamicFragmentImprovedStructure\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+</instant-run>
